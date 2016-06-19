@@ -1,14 +1,26 @@
-layout_spectrum: 0.3064516
-typography_spectrum: 0.718638
 color:
   saturation: 0.8154122
-  lightness: 0.6218638
   brandStrength: 0.8702102
+  rhythmicContrast: 0.8440861
   brandColors:
     - '#FDFFF2'
     - '#150E28'
     - '#392128'
     - '#AB9279'
     - '#D3BE80'
-  rhythmicContrast: 0.8440861
+  lightness: 0.6218638
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3064516
+typography_spectrum: 0.718638
 name: MichaelDoigArt
