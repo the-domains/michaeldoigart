@@ -10,8 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.718638
 color:
-  saturation: 0.8566308
+  saturation: 0.8727599
   brandStrength: 0.8702102
   lightness: 0.6326165
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#392128'
     - '#AB9279'
     - '#D3BE80'
-  rhythmicContrast: 0.9390681
-typography_spectrum: 0.718638
+  rhythmicContrast: 1
 layout_spectrum: 0.1666667
 name: MichaelDoigArt
