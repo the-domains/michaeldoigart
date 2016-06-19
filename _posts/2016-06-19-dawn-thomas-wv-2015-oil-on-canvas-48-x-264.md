@@ -1,11 +1,11 @@
 ---
 description: 'Dawn: Thomas, WV, 2015, oil on canvas, 48" x 264"'
-dateModified: '2016-06-19T20:14:56.452Z'
-datePublished: '2016-06-19T20:16:56.778Z'
+dateModified: '2016-06-19T20:21:21.684Z'
+datePublished: '2016-06-19T20:21:21.918Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-19-dawn-thomas-wv-2015-oil-on-canvas-48-x-264.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
