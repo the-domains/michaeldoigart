@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.718638
 color:
   saturation: 1
   brandStrength: 0.8702102
@@ -22,5 +21,6 @@ color:
     - '#AB9279'
     - '#D3BE80'
   rhythmicContrast: 1
-layout_spectrum: 0.1666667
+typography_spectrum: 0.718638
+layout_spectrum: 1
 name: MichaelDoigArt
