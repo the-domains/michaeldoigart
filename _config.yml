@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 1
-  brandStrength: 0.8702102
-  lightness: 0.6326165
+  saturation: 0.702509
+  brandStrength: 0.8297491
+  lightness: 0.8566308
   brandColors:
-    - '#FDFFF2'
-    - '#150E28'
-    - '#392128'
-    - '#AB9279'
-    - '#D3BE80'
-  rhythmicContrast: 1
+    - '#FFF3D0'
+    - '#FFB767'
+    - '#2F2F01'
+    - '#BE884A'
+    - '#405875'
+  rhythmicContrast: 0.8136201
 typography_spectrum: 0.718638
 layout_spectrum: 1
 name: MichaelDoigArt
